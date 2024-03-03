@@ -19,7 +19,7 @@ __Goal:__ Use this data to construct a bootstrap interval for the average number
 * Use 500 bootstrap samples to construct the interval by the Percentile method.
 * Use either the double bootstrap method or the bootstrap-t method to construct the confidence interval.
   - Use $\text{B}1 = 500$ and $\text{B}2 = 500$ to construct the interval by the dobule bootstrap method.
-  - Use 500 bootstrap samples to construct the interval byt he bootstrap-t method.
+  - Use 500 bootstrap samples to construct the interval by the bootstrap-t method.
 * Use $90\%$ as the confidence level. Write a detailed report on how you get the bootstrap samples and find the confidence intervals.
 * Compare the results based on the two methods.
 * Type the report.
